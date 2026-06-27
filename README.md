@@ -85,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Saksham4486/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Saksham4486/DSA/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Saksham4486/DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
