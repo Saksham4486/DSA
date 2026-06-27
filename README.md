@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Saksham4486/DSA/tree/master/0141-linked-list-cycle) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Saksham4486/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Saksham4486/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Saksham4486/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -90,8 +91,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Saksham4486/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Saksham4486/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/Saksham4486/DSA/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Saksham4486/DSA/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Saksham4486/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
