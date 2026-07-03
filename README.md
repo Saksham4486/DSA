@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Saksham4486/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Saksham4486/DSA/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Saksham4486/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0199-binary-tree-right-side-view](https://github.com/Saksham4486/DSA/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Saksham4486/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Saksham4486/DSA/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Saksham4486/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0199-binary-tree-right-side-view](https://github.com/Saksham4486/DSA/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Saksham4486/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Saksham4486/DSA/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Saksham4486/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0199-binary-tree-right-side-view](https://github.com/Saksham4486/DSA/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Saksham4486/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Saksham4486/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Saksham4486/DSA/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Saksham4486/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Saksham4486/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Saksham4486/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Enumeration
